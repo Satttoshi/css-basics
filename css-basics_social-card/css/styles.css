@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+.boxing {
+  margin: 30px;
+}
+
+.image {
+  border-radius: 15px;
+}
+
+.header {
+  text-transform: uppercase;
+}
+
+.repos {
+  font-weight: bold;
+}
+
+.arrow {
+  color: rgb(0, 170, 255);
+  border: none;
+  background-color: transparent;
+}
