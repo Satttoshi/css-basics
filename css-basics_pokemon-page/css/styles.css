@@ -94,17 +94,13 @@ section {
 
 /* ------- List ------- */
 
-/* Task 7: Last but not least! We want to style our list with our favorite Pokémon. Which selector do we need? And also add values for the padding. */
+/* Task 7: Last but not least! We want to style our list with our favorite Pokémon. Which selector do we need? 
+And also add values for the padding. */
 
 /* add selector */
- {
+li {
   list-style: "🧡";
-  padding-left: /* add value */ ;
-}
-
-/* add selector */
- {
-  padding-left: /* add value */ ;
+  padding-left: 15px;
 }
 
 /* ------- The End -------- */
